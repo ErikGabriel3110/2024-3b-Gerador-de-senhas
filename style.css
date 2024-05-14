@@ -12,14 +12,17 @@
     --cinz-claro: #aeaeae;
     --texto-titulo:"Comfortaa", sans-serif;
     --texto-corpo: "Raleway", sans-serif;
-
-
-
-
 }
 
+body{
+    background-color: var(--preto);
+    color: var(--azul-tiffany);
+    font-family: var(--texto-titulo);
+}
 
-
+.titulo-principal{
+    font-family: var(--texto-titulo);
+}
 
 
 
